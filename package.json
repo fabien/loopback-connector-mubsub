@@ -1,7 +1,6 @@
 {
   "name": "loopback-connector-mubsub",
   "version": "0.0.1",
-  "private": true,
   "scripts": {},
   "main": "index.js",
   "dependencies": {
