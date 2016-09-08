@@ -1,5 +1,6 @@
 {
   "name": "loopback-connector-mubsub",
+  "description": "Loopback Connector for Mubsub interaction",
   "version": "0.0.1",
   "scripts": {},
   "main": "index.js",
