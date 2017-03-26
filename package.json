@@ -1,15 +1,15 @@
 {
-  "name": "loopback-connector-mubsub",
-  "description": "Loopback Connector for Mubsub interaction",
-  "version": "0.0.2",
-  "scripts": {},
-  "main": "index.js",
-  "dependencies": {
-    "async": "^1.5.0",
-    "debug": "^2.1.3",
-    "lodash": "^2.4.1",
-    "loopback-connector": "^2.3.0",
-    "mubsub": "fabien/mubsub",
-    "mongodb": "^2.2.12"
-  }
+    "name": "loopback-connector-mubsub",
+	"version": "0.0.2",
+	"description": "Loopback Connector for Mubsub interaction",
+	"main": "index.js",
+	"scripts": {},
+	"dependencies": {
+		"async": "^1.5.0",
+		"debug": "^2.1.3",
+		"lodash": "^2.4.1",
+		"loopback-connector": "^2.3.0",
+		"mubsub": "^1.4.0",
+		"mongodb": "^2.2.25"
+	}
 }
