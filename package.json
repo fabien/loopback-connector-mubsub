@@ -1,5 +1,5 @@
 {
-    "name": "loopback-connector-mubsub",
+    "name": "@atelierfabien/loopback-connector-mubsub",
 	"version": "0.0.2",
 	"description": "Loopback Connector for Mubsub interaction",
 	"main": "index.js",
